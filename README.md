@@ -38,7 +38,7 @@ Nr° 2: Introdução a extração de dados do Comex stat e confecção de dados 
 Dados no Excel:
 </br>
 </br>
-<img width="823" height="312" alt="508495663-659e961d-3ed7-489c-9325-6b73d29f0571" src="https://github.com/user-attachments/assets/e05f31cd-0d7a-4eea-8f5a-8a4e900877d1" />
+<img width="1895" height="760" alt="508499410-0d0eb6f4-81c2-46fb-b674-fd9645f697b5" src="https://github.com/user-attachments/assets/4f7d596c-fa80-44b3-8111-41193e9d81c9" />
 </br>
 </br>
 Dados no Colab do Google:
